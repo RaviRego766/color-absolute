@@ -1,5 +1,5 @@
 {
-    "name": "color",
+    "name": "Color Absloute",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -20,7 +20,7 @@
     ],
     "preferredEditor": "tsprj",
     "extension": {
-        "namespace": "color",
+        "namespace": "color absolute",
         "label": "Configure",
         "localUrl": "http://127.0.0.1:8080/index.html"
     }
