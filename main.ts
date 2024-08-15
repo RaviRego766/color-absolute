@@ -4,7 +4,7 @@ namespace colorabs {
 //% block
 export function color(a : number) {}
 //% block
-export function abs.color(a : number) {
+export function abs.color(a : number) {}
 
 
 
